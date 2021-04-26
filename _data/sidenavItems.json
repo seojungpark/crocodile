@@ -11,6 +11,12 @@
         "tags": "ecommerce, charts, todos, maps, tabs, tables"
       },
       {
+        "name": "covid-analysis",
+        "label": "COVID19",
+        "link": "covid-analysis.html",
+        "tags": "users, charts, notifications, maps"
+      },
+      {
         "name": "analytics",
         "label": "Analytics",
         "link": "analytics.html",
